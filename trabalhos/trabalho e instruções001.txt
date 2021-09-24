@@ -1,0 +1,53 @@
+Olá para todos!
+
+Neste documento tem todas instruções para a criação de um arquivo e como deverão me entregar bem como a data.
+
+data de entrega, próxima quinta-feira até as 23 horas
+por onde entregar, pelo seguinte email
+profemarc9@gmail.com
+
+Como entregar: Em um arquivo zipado com o nome de quem está entregando, pode ser .zip ou .rar.
+
+exercício abaixo bem descriminado.
+
+criar um arquivo em Python com as seguintes instruções:
+deverá constar no máximo duas variáveis, de acordo com o que estiver criando.
+
+deverá executar as seguintes situações para o texto abaixo:
+
+criar um arquivo que diga se uma pessoa é:
+maior de idade e menor de idade.
+o programa deverá mostrar em string se ele é maior de idade perante a idade digitada pelo usuário exemplo:
+
+tela para usuário digitar:
+Digite sua idade: 46
+resposta do sistema
+você tem 46 anos e é maior de idade.
+o print utilizado deverá ser na seguinte formatação:
+print(f"aqui vai o texto {aqui vai a variável} caso exista aqui o restante do texto.")
+
+Primeira Observação:
+caso utilize duas variáveis, no print, são impostas duas chaves para passar as mesmas em sua ordem.
+
+o programa deverá atender os requisitos a seguir:
+1 ou 2 variáveis,
+condições compostas bem como if, elif e else.
+Poderão utilizar quantos elif quiserem e que seja necessário, somente um if e um else.
+não precisará ter laço de repetição neste arquivo, somente o mencionado.
+os prints serão atribuidos para cada condição usada por você no desenvolvimento.
+
+Observação 2:
+Aqui no grupo todos podem se ajudar para o desenvolvimento, podem fazer grupo de 3 ou 4 para desenvolver.
+aviso quê: os que sabem mais e eu sei quem são, deverão fazer grupo com quem sabe menos ou nada para que assim eles absorvam o conhecimento.
+caso alguém queira fazer sozinho beleza, segue as instruções a cima, caso forem fazer em grupo, deverá constar o nome de todos do grupo.
+
+Terceiro aviso:
+Farei perguntas pertinentes na próxima aula para cada um de seu grupo ok, então, gostaria de que todos fizessem e tentassem comprender o mínimo que será avaliado.
+
+Aviso importante:
+Eu Marcos Alan, não responderei perguntas quanto ao desenvolvimento, usem suas criatividades.
+
+Boa sorte para todos e fiquem a vontade para usar e abusar do grupo.
+
+mais um aviso importante:
+para entrar no grupo que ainda estará aberto até a próxima quarta-feira, deverão passar por mim antes, estarei no momento desta postagem trocando o link de convite.

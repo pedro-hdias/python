@@ -1,0 +1,7 @@
+Criar um programa que passe os dias da semana começando do Domingo e indo até o sábado.
+Este programa deverá ser feito com dupla, seguindo a seguinte orientação:
+variável dias_semana = ()
+Deverá constar pelo menos 1 laço de repetição onde a estrutura do for deverá ser 
+for dia in dias_semana:
+    
+Entregar até quinta-feira, 23/09/2021 às 23:59:59;
