@@ -1,6 +1,10 @@
 from time import  sleep
 from  lib.interface import *
 
+arq = ('agenda.txt')
+if not arquivoExiste:
+    criarArquivo (arq)
+
 while True:
     resposta = menu(['criar usuário', 'listar usuários', 'sair do sistema'])
     if resposta == 1:
