@@ -10,4 +10,13 @@ def arquivoExiste(nome):
         return True
 
 
+def criarArquivo(nome):
+    try:
+        a = open(nome, 'wt')
+        a.close()
+    except():
+        print('Houve um erro ao criar o arquivo!')
+    else:
+        print(f'arquivo {nome} criado com sucesso.')
+
 
