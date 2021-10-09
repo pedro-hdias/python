@@ -1,8 +1,9 @@
 from time import  sleep
 from  lib.interface import *
+from lib.arquivo import *
 
 arq = ('agenda.txt')
-if not arquivoExiste:
+if not arquivoExiste(arq):
     criarArquivo (arq)
 
 while True:
